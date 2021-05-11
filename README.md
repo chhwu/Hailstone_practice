@@ -1,1 +1,1 @@
-# Hailstone_practice
+# This program computes Hailstone sequences.
